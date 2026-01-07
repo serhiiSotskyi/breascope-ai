@@ -21,7 +21,7 @@ This project demonstrates an **end-to-end AI workflow**:
 ## 🚀 Live Demo
 
 Frontend  
-👉 https://breascope-30m0xm9gr-serhiis-projects-83c40c39.vercel.app/
+👉 https://breascope-ai.vercel.app/
 
 Backend  
 👉 https://breascope-ai-production.up.railway.app/
