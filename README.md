@@ -170,8 +170,7 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 ## 🔍 Dataset Source
 
 Wisconsin Diagnostic Breast Cancer Dataset  
-UCI Machine Learning Repository  
-https://archive.ics.uci.edu
+https://www.kaggle.com/datasets/utkarshx27/breast-cancer-wisconsin-diagnostic-dataset
 
 ---
 
