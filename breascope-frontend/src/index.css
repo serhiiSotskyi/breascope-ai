@@ -1,0 +1,38 @@
+.report-container {
+  max-width: 900px;       /* stop text going too wide */
+  margin: 0 auto;         /* center on page */
+  padding: 20px;          /* breathing room */
+  line-height: 1.6;       /* readable text */
+  font-size: 16px;        /* normal size */
+}
+
+.report-container h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.report-container h2 {
+  margin-top: 20px;
+  font-size: 22px;
+}
+
+.report-container pre {
+  background: #f6f6f6;
+  padding: 12px;
+  overflow-x: auto;
+  border-radius: 6px;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  padding: 12px 20px;
+  background: #f2f2f2;
+  border-bottom: 1px solid #ddd;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #0070f3;
+  font-weight: 500;
+}
