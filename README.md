@@ -21,10 +21,10 @@ This project demonstrates an **end-to-end AI workflow**:
 ## 🚀 Live Demo
 
 Frontend  
-👉 https://YOUR-FRONTEND-URL
+👉 https://breascope-30m0xm9gr-serhiis-projects-83c40c39.vercel.app/
 
 Backend  
-👉 https://YOUR-RAILWAY-BACKEND-URL
+👉 https://breascope-ai-production.up.railway.app/
 
 Health Check  
 👉 `/health`
